@@ -1,0 +1,1 @@
+   This is a simple JavsScript based Tic-Tac-Toe game . Tic-Tac-Toe game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game
